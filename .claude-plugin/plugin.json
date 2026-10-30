@@ -1,8 +1,14 @@
 {
   "name": "resonanz-x-ray",
-  "version": "0.1.13",
+  "version": "0.1.14",
   "description": "Explore investment performance, risk and comparisons with Resonanz X-Ray. For business use only.",
   "author": {
     "name": "Resonanz Capital"
-  }
+  },
+  "icon": "./.claude-plugin/icon.png",
+  "repository": "https://github.com/Resonanz-Capital/resonanz-x-ray-plugin",
+  "documentationUrl": "https://resonanzcapital.com/mcp/resonanz-x-ray-usage",
+  "supportUrl": "https://resonanzcapital.com/mcp/x-ray-support",
+  "privacyPolicyUrl": "https://resonanzcapital.com/mcp/resonaz-x-ray-privacy-policy",
+  "termsOfServiceUrl": "https://resonanzcapital.com/mcp/resonanz-x-ray-terms"
 }

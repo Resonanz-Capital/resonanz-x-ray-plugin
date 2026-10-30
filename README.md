@@ -46,3 +46,13 @@ Version 0.1.13 was imported from the reviewed Claude distribution archive.
 Keep the plugin manifest and guide together when releasing updates. Validate the
 package and test its connection and guide in Claude before submitting a new
 version. Never commit credentials, user uploads or deployment configuration.
+
+## License
+
+This plugin is proprietary. The [LICENSE](LICENSE) permits use with Resonanz
+X-Ray and authorized platform distribution; it does not grant general reuse,
+modification or redistribution rights. The hosted service is governed by its
+separate terms.
+
+Claude bundle 0.1.14 adds the license, supplied logo and explicit listing links
+to the 0.1.13 bundle. Its guide and MCP connection are unchanged.
