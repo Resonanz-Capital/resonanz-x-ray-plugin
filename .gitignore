@@ -1,0 +1,14 @@
+# Local development files
+.idea/
+.vscode/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+.DS_Store
+Thumbs.db
+
+# Empty IDE-created scaffold; not part of the plugin
+/main.py

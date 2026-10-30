@@ -1,0 +1,5 @@
+interface:
+  display_name: "Resonanz Investment Guide"
+  short_description: "Explore investment performance and risk"
+policy:
+  allow_implicit_invocation: true

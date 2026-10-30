@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "resonanz-x-ray": {
+      "type": "http",
+      "url": "https://ensemble.resonanzcapital.com/mcp"
+    }
+  }
+}
