@@ -1,5 +1,34 @@
 # Choose the smallest useful analysis
 
+## Clarify an upload
+
+Use inspected evidence to explain what was found and ask one grouped, relevant
+question. For example, if the tool recognizes dates and percentage-formatted returns
+but no currency or cash-return meaning: "I found a dated return history. What currency
+is it in, and are these reported returns or returns after subtracting cash?" Do not
+ask those questions when the file or saved answers already settle them. If the date
+format, selected table or first return's period is unclear, clarify that specific
+issue using actual cells. Do not treat a guessed calendar as an observed fact.
+
+Keep partial answers with the retained original using the available tools. A user
+answering "USD, after cash" need not repeat that answer when clarifying a date later.
+Missing optional descriptions do not block import: "You can also add the strategy
+or style, or leave those blank." Skip that offer if it was already declined or adds
+no value. Readable report text can support a proposed detail for the selected fund;
+it does not replace confirmed answers or supply numerical observations.
+
+Present the proposed interpretation and any update/new choice through the connection's
+confirmation workflow. A changed interpretation needs fresh confirmation. For scans
+or unreadable tables, explain the actual extraction limitation and request a readable
+table or spreadsheet; do not promise OCR or reconstruct missing numbers.
+
+After confirmation, briefly acknowledge the investments and coverage and continue the
+original analysis request. If only one calculation needs another convention, ask for
+that convention without implying the whole file is unusable. Do not turn receipt of
+a file or successful validation into a claim that calculations have completed.
+
+## Select the analysis
+
 Resolve the intended investment and inspect its validation, identity, units,
 currency, frequency and coverage before selecting an analysis. Ask only about
 ambiguities that affect the next calculation; unrelated warnings do not block

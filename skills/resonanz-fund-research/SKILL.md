@@ -98,6 +98,16 @@ for the selected file/version. For example, ask whether these are the fund's
 reported returns or returns with cash already subtracted; do not ask for field names.
 Use actual inspected cells to clarify units, never invented examples presented as
 file contents. Avoid repeating questions answered by the file or earlier confirmation.
+When the original is retained, continue its clarification without asking for another
+upload. Distinguish a received file, saved answers, a confirmed import and a completed
+calculation; claim only the stage returned by the tools. Ask for missing fields needed
+to interpret the table first, and financial conventions when they affect the requested
+analysis. Offer optional details such as strategy or style briefly and let the user
+skip them. See [input clarification](references/analysis.md#clarify-an-upload) for the
+conversation pattern. A review link confirms the existing original, not another upload.
+An imported investment with a missing convention needs clarification, not a second
+import. Ask "update it or keep both?" only for a matching investment actually reported
+by the app. Ask replacement details after the user chooses to update, not beforehand.
 
 When the purpose of a new file is unclear, ask whether to replace the working
 selection or compare the files. Replacing the selection does not delete data or

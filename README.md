@@ -56,3 +56,21 @@ separate terms.
 
 Claude bundle 0.1.14 adds the license, supplied logo and explicit listing links
 to the 0.1.13 bundle. Its guide and MCP connection are unchanged.
+
+## Guide update 0.1.16
+
+This version synchronizes the guide with the application repository at commit
+`120b2d8`. It keeps confirmed upload details, asks only for missing information
+that affects the next step, and continues with the retained original instead of
+asking for another upload. An update-versus-new question is asked only when the
+app reports a matching investment; replacement details follow the user's choice.
+
+The guide source is maintained in `Analytics-service-AI/skills/resonanz-fund-research/`.
+Synchronize that directory here when releasing guide changes; application commits
+do not automatically update this repository. Version 0.1.15 was used by the separate
+application release bundle; this update uses a new version for the revised guide.
+
+After pushing a release commit, use **Check for new commits** in the Anthropic
+submission portal and check which commit was reviewed. A successful local package
+check does not establish directory approval. Privacy-policy publication and hosted
+service updates are separate from this guide update.
