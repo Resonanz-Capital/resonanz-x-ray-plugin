@@ -9,6 +9,9 @@ is it in, and are these reported returns or returns after subtracting cash?" Do 
 ask those questions when the file or saved answers already settle them. If the date
 format, selected table or first return's period is unclear, clarify that specific
 issue using actual cells. Do not treat a guessed calendar as an observed fact.
+If the importer proposes a calendar and first return's opening date, include those
+assumptions in the existing import confirmation; do not ask the same questions
+separately. Follow the connection's proposal and correction rules.
 
 Keep partial answers with the retained original using the available tools. A user
 answering "USD, after cash" need not repeat that answer when clarifying a date later.

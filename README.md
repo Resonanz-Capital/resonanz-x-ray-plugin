@@ -74,3 +74,18 @@ After pushing a release commit, use **Check for new commits** in the Anthropic
 submission portal and check which commit was reviewed. A successful local package
 check does not establish directory approval. Privacy-policy publication and hosted
 service updates are separate from this guide update.
+
+## Publication preparation 0.1.21
+
+This candidate synchronizes the current guide and packaged listing assets with
+Analytics-service-AI. The proprietary license, 512-pixel supplied logo, four
+listing links and published-host-identity sign-in configuration are preserved.
+The guide starts broad fund requests with general performance and risk, keeps
+confirmations concise and preserves the user's confirmed data conventions.
+
+The 0.1.16 notes above describe the previous release. Candidate 0.1.21 also
+normalizes packaged license line endings for reproducible builds. This candidate has not been
+pushed or checked by the directory as part of local preparation. Public privacy
+and terms completion, approved retention enforcement, reviewer access and hosted
+acceptance remain separate publication requirements. A successful local package
+check is not a claim of directory approval. Do not submit until those checks pass.

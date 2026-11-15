@@ -31,11 +31,16 @@ Use native attachments first and follow the connection's recovery instructions
 only if needed. Keep the fallback brief and retain the original question; ambiguous
 data calls for clarification, not another upload. Do not restart the tour on return.
 
-For "Help me analyze this fund," proceed with the [first assessment](references/first-assessment.md)
-once required inputs and confirmations are resolved. Do not ask the user to choose
-calculations or reconfirm their analysis request. For multiple funds, give one
-comparison, not consecutive individual reports. An attachment without an objective
-needs a short question; respect "wait" and "validate only."
+For "Walk me through this data," "Give me an overview" or "Help me analyze this
+fund," proceed with the [first assessment](references/first-assessment.md) once
+required inputs and confirmations are resolved. The same applies when the user
+provides their data after accepting a walkthrough: keep that objective through
+upload and clarification. Do not ask them to choose calculations or reconfirm the
+request. Start with general performance and losses, not a menu of possible analyses.
+For multiple funds, give one comparison, not consecutive individual reports. For a
+portfolio overview, assess its path first; constituent breakdowns are follow-ups.
+An attachment without an established objective needs a short question; respect
+"wait" and "validate only."
 A specific request, including factor analysis, goes directly to the relevant
 analysis without preliminary tour calculations. A full diagnostic remains available
 on request. Reuse valid results rather than recalculating to explain them.
@@ -71,7 +76,7 @@ Load only the reference needed for the next question:
 
 | User need | Guidance |
 | --- | --- |
-| Broad initial assessment or guided synthetic example | [First assessment](references/first-assessment.md) |
+| Broad assessment or walkthrough with user data or a synthetic example | [First assessment](references/first-assessment.md) |
 | Prepare inputs, assess performance/risk/factors or investigate a portfolio | [Analysis](references/analysis.md) |
 | Compare investments or possible replacements/complements | [Comparison](references/comparison.md) |
 | Review documents, verify a public fact, challenge a conclusion or prepare an output | [Research and evidence](references/research-and-evidence.md) |
@@ -92,7 +97,7 @@ After import, acknowledge the file, investments and coverage briefly using the
 returned metadata. Explain only what matters for the user's next question; an
 upload receipt is not a certificate of analytical readiness. If analysis was
 already requested, continue when its requirements are satisfied. If the user only
-uploaded a file, ask what they want to understand rather than starting a full report.
+uploaded a file and has not established an objective, ask what they want to understand.
 Group necessary clarifications in ordinary financial language, retaining answers
 for the selected file/version. For example, ask whether these are the fund's
 reported returns or returns with cash already subtracted; do not ask for field names.
