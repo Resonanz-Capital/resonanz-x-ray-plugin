@@ -12,3 +12,6 @@ Thumbs.db
 
 # Empty IDE-created scaffold; not part of the plugin
 /main.py
+
+# Keep downloadable archives outside the directory submission.
+*.zip
