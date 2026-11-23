@@ -12,7 +12,9 @@ their request. A bare attachment is not an instruction to analyze it.
 
 Use the supported summary calculations for cumulative return, annualized return,
 annualized volatility and maximum drawdown where eligible. Show these in a small
-table. Add one cumulative-performance chart by default; choose a drawdown chart
+table. Follow the connection's interactive-first chart guidance and resolved
+analysis frequency; do not switch to monthly or static images just for the tour.
+Add one cumulative-performance chart by default; choose a drawdown chart
 instead when losses are the main finding. Reuse available result objects and obtain
 chart data only when needed. This is an output pattern, not a fixed endpoint list,
 call quota or alternative calculation method. Do not invent missing metrics or

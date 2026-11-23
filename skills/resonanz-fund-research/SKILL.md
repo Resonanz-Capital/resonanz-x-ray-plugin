@@ -30,6 +30,15 @@ an actual example file, provide it through the template tool and host file creat
 Use native attachments first and follow the connection's recovery instructions
 only if needed. Keep the fallback brief and retain the original question; ambiguous
 data calls for clarification, not another upload. Do not restart the tour on return.
+When the connection provides a multi-file upload page, keep its current link and
+check which files arrived when the user returns. Continue received files through
+their individual review, and briefly identify any files still pending. No special
+return phrase is required; preserve the user's original question.
+Check the transfer receipt before claiming a file is missing. Empty retained-upload
+or dataset lists are not transfer status, and a failed check is not a failed upload.
+Correct a mistaken tool/reference using the connection's guidance; do not make the
+user upload again merely because the wrong inspection tool was called. Present the
+private upload URL once as a friendly link, without repeating its full text.
 
 For "Walk me through this data," "Give me an overview" or "Help me analyze this
 fund," proceed with the [first assessment](references/first-assessment.md) once
